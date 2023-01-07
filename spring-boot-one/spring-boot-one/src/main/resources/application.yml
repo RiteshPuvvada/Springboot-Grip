@@ -3,4 +3,4 @@ server:
 
 spring:
   main:
-    web-application-type: none
+    web-application-type: servlet
